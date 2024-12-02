@@ -138,4 +138,17 @@ footer nav ul li a:hover {
     nav ul li a:hover {
         color: #ff0000;
     }
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
 }
